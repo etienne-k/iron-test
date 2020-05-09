@@ -1,0 +1,10 @@
+[package]
+name = "iron-test"
+version = "0.1.0"
+authors = ["etienne-k"]
+edition = "2018"
+
+[dependencies]
+iron = "*"
+hyper = "*"
+log = "*"
